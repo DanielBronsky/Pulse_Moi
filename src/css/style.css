@@ -158,13 +158,6 @@
   font-size: 16px;
 }
 
-.button_subbmit {
-  width: 100%;
-  height: 55px;
-  color: #fff;
-  font-size: 16px;
-}
-
 .advantages {
   padding: 70px 0 80px 0;
   background-color: #f6f6f6;
@@ -244,26 +237,7 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  width: 300px;
-}
-
-.feed-form input {
-  height: 50px;
-  border-radius: 5px;
-  background-color: #ffffff;
-  margin-bottom: 15px;
-  border: none;
-  padding: 0 20px;
-  color: #4b4b4b;
-  font-size: 14px;
-  font-weight: 300;
-}
-
-.feed-form input:nth-child(3) {
-  margin-bottom: 20px;
+  -webkit-text-decoration: column;
+          text-decoration: column;
 }
 /*# sourceMappingURL=style.css.map */
