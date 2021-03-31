@@ -10,8 +10,7 @@
         "blocks/_advantages.scss",
         "blocks/_titles.scss",
         "blocks/_consultation.scss",
-        "blocks/_forms.scss",
-        "blocks/_media.scss"
+        "blocks/_forms.scss"
     ],
     "names": [],
     "file": "style.css"
